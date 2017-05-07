@@ -2,21 +2,21 @@ PODS:
   - BLKFlexibleHeightBar (1.0.2)
 
 DEPENDENCIES:
-  - BLKFlexibleHeightBar (from `https://github.com/DojoMadness/BLKFlexibleHeightBar.git`, commit `e6238f5c24c6f390a8e28de98daa7e8a30c80268`)
+  - BLKFlexibleHeightBar (from `https://github.com/VragonerDev/BLKFlexibleHeightBar.git`, commit `7a8abd19ac0f5a421823d8ed2b0f40227f4a9954`)
 
 EXTERNAL SOURCES:
   BLKFlexibleHeightBar:
-    :commit: e6238f5c24c6f390a8e28de98daa7e8a30c80268
-    :git: https://github.com/DojoMadness/BLKFlexibleHeightBar.git
+    :commit: 7a8abd19ac0f5a421823d8ed2b0f40227f4a9954
+    :git: https://github.com/VragonerDev/BLKFlexibleHeightBar.git
 
 CHECKOUT OPTIONS:
   BLKFlexibleHeightBar:
-    :commit: e6238f5c24c6f390a8e28de98daa7e8a30c80268
-    :git: https://github.com/DojoMadness/BLKFlexibleHeightBar.git
+    :commit: 7a8abd19ac0f5a421823d8ed2b0f40227f4a9954
+    :git: https://github.com/VragonerDev/BLKFlexibleHeightBar.git
 
 SPEC CHECKSUMS:
   BLKFlexibleHeightBar: b27572a69633d8e33f1f2bbc486b04d8e86f742d
 
-PODFILE CHECKSUM: 56dc847cc2a56870dc3beb80233b9d36d606e638
+PODFILE CHECKSUM: ac9db2d615ce92745f64fcb0bc48791a6d9c2c5d
 
 COCOAPODS: 1.2.0
